@@ -1,13 +1,13 @@
 <!-- ════════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:00b04f&height=180&section=header&text=Deepak%20Kumar&fontSize=48&fontColor=00ff88&fontAlignY=30&desc=Data%20Analyst%20%7C%20Where%20Data%20Meets%20Intelligence&descSize=17&descAlignY=52&descColor=87ceeb&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:00b04f&height=180&section=header&text=Deepak%20Kumar&fontSize=48&fontColor=00ff88&fontAlignY=30&desc=Data%20Analyst%20%7C%20Where%20Data%20Meets%20Intelligence&descSize=17&descAlignY=52&descColor=FFD700&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=720&height=45&lines=Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+Raw+Data+into+Actionable+Insights;Machine+Learning+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/-DeepakKumar29th-0d1117?style=flat-square&logo=github&logoColor=00ff88)](https://github.com/DeepakKumar29th)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/-deepakkumar29th%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff88)](mailto:deepakkumar29th@gmail.com)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/deepak-kumar29th/)
+[![](https://img.shields.io/badge/-DeepakKumar29th-24292e?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/DeepakKumar29th)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-deepakkumar29th%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:deepakkumar29th@gmail.com)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/deepak-kumar29th/)
 
 </div>
 
@@ -98,8 +98,8 @@ Currently building my skills through hands-on projects and professional training
 
 <br/>
 
-[![](https://img.shields.io/badge/-🚀%20Live%20Demo-00ff88?style=for-the-badge&logoColor=0d1117)](https://smartstock-inventory-ai.streamlit.app/)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/-View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/DeepakKumar29th/SmartStock-AI)
+[![](https://img.shields.io/badge/-🚀%20Live%20Demo-00b04f?style=for-the-badge&logoColor=ffffff)](https://smartstock-inventory-ai.streamlit.app/)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DeepakKumar29th/SmartStock-AI)
 
 </div>
 
@@ -157,8 +157,8 @@ SmartStock AI is my capstone project from the **SURE ProEd Data Analytics Intern
 
 <br/>
 
-[![Internship Repo](https://img.shields.io/badge/Internship%20Repository-GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff88)](https://github.com/sure-trust/DEEPAK-KUMAR-S-g1-data-analytics)&nbsp;&nbsp;
-[![SURE TRUST](https://img.shields.io/badge/SURE%20TRUST-Website-00ff88?style=flat-square&labelColor=0d1117)](https://www.suretrustforruralyouth.com/courses/162)
+[![Internship Repo](https://img.shields.io/badge/Internship%20Repository-GitHub-e06c00?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/sure-trust/DEEPAK-KUMAR-S-g1-data-analytics)&nbsp;&nbsp;
+[![SURE TRUST](https://img.shields.io/badge/SURE%20TRUST-Website-0891b2?style=flat-square&labelColor=0e7490&logoColor=ffffff)](https://www.suretrustforruralyouth.com/courses/162)
 
 <br/>
 
@@ -169,14 +169,18 @@ SmartStock AI is my capstone project from the **SURE ProEd Data Analytics Intern
 > The universal process — every Data Analyst, every project, everywhere.
 
 ```mermaid
-flowchart LR
-    A["📥 Collect"] --> B["🧹 Clean"]
-    B --> C["🔍 Explore"]
-    C --> D["📊 Visualize"]
-    D --> E["🤖 Analyze"]
-    E --> F["💡 Insights"]
-    F --> G["📢 Present"]
-    G --> H["🔄 Iterate"]
+flowchart TB
+    subgraph top[ ]
+        direction LR
+        A["📥 Collect"] --> B["🧹 Clean"] --> C["🔍 Explore"] --> D["📊 Visualize"]
+    end
+
+    subgraph bottom[ ]
+        direction LR
+        E["🤖 Analyze"] --> F["💡 Insights"] --> G["📢 Present"] --> H["🔄 Iterate"]
+    end
+
+    top --> bottom
 
     style A fill:#0d1117,stroke:#00ff88,color:#00ff88
     style B fill:#0d1117,stroke:#00ff88,color:#00ff88
@@ -186,6 +190,8 @@ flowchart LR
     style F fill:#0a3d1f,stroke:#00ff88,color:#00ff88
     style G fill:#0d1117,stroke:#00ff88,color:#00ff88
     style H fill:#0a3d1f,stroke:#00ff88,color:#00ff88
+    style top fill:transparent,stroke:transparent
+    style bottom fill:transparent,stroke:transparent
 ```
 
 <br/>
