@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:00b04f&height=180&section=header&text=Deepak%20Kumar&fontSize=48&fontColor=00ff88&fontAlignY=30&desc=Data%20Analyst%20%7C%20Where%20Data%20Meets%20Intelligence&descSize=17&descAlignY=52&descColor=FFD700&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=720&height=45&lines=Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+Raw+Data+into+Actionable+Insights;Machine+Learning+%26+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=720&height=45&lines=Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+Raw+Data+into+Actionable+Insights;Machine+Learning+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/-DeepakKumar29th-24292e?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/DeepakKumar29th)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/-deepakkumar29th%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:deepakkumar29th@gmail.com)&nbsp;&nbsp;
